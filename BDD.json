@@ -1,25 +1,34 @@
 {
-	"photo":
-	[
-		{
-            "nom":"Fox forest",
-			"date": 2020,
-			"img": "fox.jpg"
-		},
-        {
-            "nom":"Fox forest",
-			"date": 2021,
-			"img": "fox2.jpg"
-		},
-        {
-            "nom":"Fox forest",
-			"date": 2022,
-			"img": "fox3.jpg"
-		},
-        {
-            "nom":"Fox forest",
-			"date": 2023,
-			"img": "fox4.jpg"
-		}
-	]
+  "photo": [
+    {
+      "nom": "Fox forest",
+      "date": 2020,
+      "img": "fox.jpg"
+    },
+    {
+      "nom": "Fox forest",
+      "date": 2021,
+      "img": "fox2.jpg"
+    },
+    {
+      "nom": "Fox forest",
+      "date": 2022,
+      "img": "fox3.jpg"
+    },
+    {
+      "nom": "Fox forest",
+      "date": 2023,
+      "img": "fox4.jpg"
+    },
+    {
+        "nom": "Allo ?",
+        "date": 2023,
+        "img": "phone.png"
+    },
+    {
+        "nom": "Araignée tout pépou",
+        "date": 2023,
+        "img": "spider.png"
+    }
+  ]
 }
